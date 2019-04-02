@@ -12,7 +12,7 @@ Installation
 The best way to install Kdyby/Translation is using the [Composer](http://getcomposer.org/):
 
 ```sh
-$ composer require kdyby/translation
+$ composer require appelis/translation
 ```
 
 Documentation
