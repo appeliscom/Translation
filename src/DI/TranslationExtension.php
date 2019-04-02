@@ -55,7 +55,6 @@ use Tracy\IBarPanel;
 class TranslationExtension extends \Nette\DI\CompilerExtension
 {
 
-	use \Kdyby\StrictObjects\Scream;
 
 	/** @deprecated */
 	const LOADER_TAG = self::TAG_LOADER;

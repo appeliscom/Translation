@@ -13,7 +13,6 @@ namespace Kdyby\Translation;
 class MessageCatalogue extends \Symfony\Component\Translation\MessageCatalogue
 {
 
-	use \Kdyby\StrictObjects\Scream;
 
 	/**
 	 * {@inheritdoc}
